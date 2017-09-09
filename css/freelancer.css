@@ -200,10 +200,10 @@ header.masthead {
     display: block;
     max-width: 400px;
     margin: 0 auto;
-    cursor: pointer; 
-    border:1px;
-    border-color:black;}
+    cursor: pointer; }
     #portfolio .portfolio-item .portfolio-link .caption {
+         border:10px;
+    border-color:black;
       position: absolute;
       width: 100%;
       height: 100%;
